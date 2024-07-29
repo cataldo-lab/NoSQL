@@ -1,2 +1,7 @@
 .env
 venv
+./vinomongo/winemag-data_first150k.csv
+
+./vinoneo/winemag-data_first150k.csv
+
+
